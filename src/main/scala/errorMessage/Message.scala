@@ -1,4 +1,4 @@
-package ErrorMessage
+package errorMessage
 
 object Message {
 

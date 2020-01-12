@@ -1,4 +1,4 @@
-package ConfigApp
+package configApp
 
 object ConfigTwitter {
 
